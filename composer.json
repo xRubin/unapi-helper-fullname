@@ -1,0 +1,18 @@
+{
+  "name": "unapi/helper-fullname",
+  "description": "Unapi helper: full name",
+  "keywords": [
+    "unapi",
+    "full name"
+  ],
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "unapi\\helper\\fullname\\": "src"
+    }
+  }
+}
