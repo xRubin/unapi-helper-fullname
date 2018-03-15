@@ -1,5 +1,5 @@
 <?php
-namespace unapi\helper\money;
+namespace unapi\helper\fullname;
 
 class FullName
 {
